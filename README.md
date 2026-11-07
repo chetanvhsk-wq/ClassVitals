@@ -19,8 +19,8 @@ ClassVitals makes the **RFID card tap the power gate** of a classroom.
 
 | Name | USN |
 |---|---|
-| Aditya | 25BBTCS319 |
 | Chetan Venugopala | 25BBTCS327 |
+| Aditya | 25BBTCS319 |
 | Chilaka Hrushikesh | 25BBTCS328 |
 | Ratan Bahadur Mohanta | 25BBTCS347 |
 
