@@ -169,4 +169,12 @@ EXIT: Chetan | Duration: 325 seconds
 
 *CMR University, School of Engineering and Technology — Dept. of CSE — 2026–27*
 
-[Portfolio](https://portfolio-beta-gilt-29.vercel.app)
+---
+
+<div align="center">
+
+### More from Chetan
+
+[Visit my portfolio →](https://portfolio-beta-gilt-29.vercel.app)
+
+</div>
